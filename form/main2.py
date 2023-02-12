@@ -17,5 +17,4 @@ for row in range(2, len(sheet_select['A']) + 1):
     print(phone)
     print(sex)
     print(about)
-
     
